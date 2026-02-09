@@ -15,7 +15,7 @@ I'm an enthusiastic mobile app developer with a keen interest in creating seamle
 - 🎨 Exploring best practices in mobile UI/UX design
 - 📚 Staying updated with the latest trends in mobile app development
 
-## 🤲 Looking to Collaborate
+## 🤝 Looking to Collaborate
 
 I'm always open to joining forces with like-minded developers on projects that:
 - 🔥 Push the boundaries of mobile technology
